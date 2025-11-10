@@ -1,0 +1,201 @@
+@import "@/app/variables.scss";
+
+.background-color-normal {
+    background: -webkit-linear-gradient(180deg, $color-type-normal 50%, $color-type-normal 50%);
+    background: -ms-linear-gradient(180deg, $color-type-normal 50%, $color-type-normal 50%);
+    background: -moz-linear-gradient(180deg, $color-type-normal 50%, $color-type-normal 50%);
+    background: -o-linear-gradient(180deg, $color-type-normal 50%, $color-type-normal 50%);
+    background: linear-gradient(180deg, $color-type-normal 50%, $color-type-normal 50%);
+    background-color: $color-type-normal;
+    color: $color-font-dark;
+}
+
+.background-color-fighting {
+    background: -webkit-linear-gradient(180deg, $color-type-fighting 50%, $color-type-fighting 50%);
+    background: -ms-linear-gradient(180deg, $color-type-fighting 50%, $color-type-fighting 50%);
+    background: -moz-linear-gradient(180deg, $color-type-fighting 50%, $color-type-fighting 50%);
+    background: -o-linear-gradient(180deg, $color-type-fighting 50%, $color-type-fighting 50%);
+    background: linear-gradient(180deg, $color-type-fighting 50%, $color-type-fighting 50%);
+    background-color: $color-type-fighting;
+    color: $color-font-white;
+}
+
+.background-color-flying {
+    background: -webkit-linear-gradient(180deg, $color-type-flying 50%, $color-type-flying-secondary 50%);
+    background: -ms-linear-gradient(180deg, $color-type-flying 50%, $color-type-flying-secondary 50%);
+    background: -moz-linear-gradient(180deg, $color-type-flying 50%, $color-type-flying-secondary 50%);
+    background: -o-linear-gradient(180deg, $color-type-flying 50%, $color-type-flying-secondary 50%);
+    background: linear-gradient(180deg, $color-type-flying 50%, $color-type-flying-secondary 50%);
+    background-color: $color-type-flying;
+    color: $color-font-dark;
+}
+
+.background-color-poison {
+    background: -webkit-linear-gradient(180deg, $color-type-poison 50%, $color-type-poison 50%);
+    background: -ms-linear-gradient(180deg, $color-type-poison 50%, $color-type-poison 50%);
+    background: -moz-linear-gradient(180deg, $color-type-poison 50%, $color-type-poison 50%);
+    background: -o-linear-gradient(180deg, $color-type-poison 50%, $color-type-poison 50%);
+    background: linear-gradient(180deg, $color-type-poison 50%, $color-type-poison 50%);
+    background-color: $color-type-poison;
+    color: $color-font-white;
+}
+
+.background-color-ground {
+    background: -webkit-linear-gradient(180deg, $color-type-ground 50%, $color-type-ground-secondary 50%);
+    background: -ms-linear-gradient(180deg, $color-type-ground 50%, $color-type-ground-secondary 50%);
+    background: -moz-linear-gradient(180deg, $color-type-ground 50%, $color-type-ground-secondary 50%);
+    background: -o-linear-gradient(180deg, $color-type-ground 50%, $color-type-ground-secondary 50%);
+    background: linear-gradient(180deg, $color-type-ground 50%, $color-type-ground-secondary 50%);
+    background-color: $color-type-ground;
+    color: $color-font-dark;
+}
+
+.background-color-rock {
+    background: -webkit-linear-gradient(180deg, $color-type-rock 50%, $color-type-rock 50%);
+    background: -ms-linear-gradient(180deg, $color-type-rock 50%, $color-type-rock 50%);
+    background: -moz-linear-gradient(180deg, $color-type-rock 50%, $color-type-rock 50%);
+    background: -o-linear-gradient(180deg, $color-type-rock 50%, $color-type-rock 50%);
+    background: linear-gradient(180deg, $color-type-rock 50%, $color-type-rock 50%);
+    background-color: $color-type-rock;
+    color: $color-font-white;
+}
+
+.background-color-bug {
+    background: -webkit-linear-gradient(180deg, $color-type-bug 50%, $color-type-bug 50%);
+    background: -ms-linear-gradient(180deg, $color-type-bug 50%, $color-type-bug 50%);
+    background: -moz-linear-gradient(180deg, $color-type-bug 50%, $color-type-bug 50%);
+    background: -o-linear-gradient(180deg, $color-type-bug 50%, $color-type-bug 50%);
+    background: linear-gradient(180deg, $color-type-bug 50%, $color-type-bug 50%);
+    background-color: $color-type-bug;
+    color: $color-font-white;
+}
+
+.background-color-ghost {
+    background: -webkit-linear-gradient(180deg, $color-type-ghost 50%, $color-type-ghost 50%);
+    background: -ms-linear-gradient(180deg, $color-type-ghost 50%, $color-type-ghost 50%);
+    background: -moz-linear-gradient(180deg, $color-type-ghost 50%, $color-type-ghost 50%);
+    background: -o-linear-gradient(180deg, $color-type-ghost 50%, $color-type-ghost 50%);
+    background: linear-gradient(180deg, $color-type-ghost 50%, $color-type-ghost 50%);
+    background-color: $color-type-ghost;
+    color: $color-font-white;
+}
+
+.background-color-steel {
+    background: -webkit-linear-gradient(180deg, $color-type-steel 50%, $color-type-steel 50%);
+    background: -ms-linear-gradient(180deg, $color-type-steel 50%, $color-type-steel 50%);
+    background: -moz-linear-gradient(180deg, $color-type-steel 50%, $color-type-steel 50%);
+    background: -o-linear-gradient(180deg, $color-type-steel 50%, $color-type-steel 50%);
+    background: linear-gradient(180deg, $color-type-steel 50%, $color-type-steel 50%);
+    background-color: $color-type-steel;
+    color: $color-font-dark;
+}
+
+.background-color-fire {
+    background: -webkit-linear-gradient(180deg, $color-type-fire 50%, $color-type-fire 50%);
+    background: -ms-linear-gradient(180deg, $color-type-fire 50%, $color-type-fire 50%);
+    background: -moz-linear-gradient(180deg, $color-type-fire 50%, $color-type-fire 50%);
+    background: -o-linear-gradient(180deg, $color-type-fire 50%, $color-type-fire 50%);
+    background: linear-gradient(180deg, $color-type-fire 50%, $color-type-fire 50%);
+    background-color: $color-type-fire;
+    color: $color-font-white;
+}
+
+.background-color-water {
+    background: -webkit-linear-gradient(180deg, $color-type-water 50%, $color-type-water 50%);
+    background: -ms-linear-gradient(180deg, $color-type-water 50%, $color-type-water 50%);
+    background: -moz-linear-gradient(180deg, $color-type-water 50%, $color-type-water 50%);
+    background: -o-linear-gradient(180deg, $color-type-water 50%, $color-type-water 50%);
+    background: linear-gradient(180deg, $color-type-water 50%, $color-type-water 50%);
+    background-color: $color-type-water;
+    color: $color-font-white;
+}
+
+.background-color-grass {
+    background: -webkit-linear-gradient(180deg, $color-type-grass 50%, $color-type-grass 50%);
+    background: -ms-linear-gradient(180deg, $color-type-grass 50%, $color-type-grass 50%);
+    background: -moz-linear-gradient(180deg, $color-type-grass 50%, $color-type-grass 50%);
+    background: -o-linear-gradient(180deg, $color-type-grass 50%, $color-type-grass 50%);
+    background: linear-gradient(180deg, $color-type-grass 50%, $color-type-grass 50%);
+    background-color: $color-type-grass;
+    color: $color-font-dark;
+}
+
+.background-color-electric {
+    background: -webkit-linear-gradient(180deg, $color-type-electric 50%, $color-type-electric 50%);
+    background: -ms-linear-gradient(180deg, $color-type-electric 50%, $color-type-electric 50%);
+    background: -moz-linear-gradient(180deg, $color-type-electric 50%, $color-type-electric 50%);
+    background: -o-linear-gradient(180deg, $color-type-electric 50%, $color-type-electric 50%);
+    background: linear-gradient(180deg, $color-type-electric 50%, $color-type-electric 50%);
+    background-color: $color-type-electric;
+    color: $color-font-dark;
+}
+
+.background-color-psychic {
+    background: -webkit-linear-gradient(180deg, $color-type-psychic 50%, $color-type-psychic 50%);
+    background: -ms-linear-gradient(180deg, $color-type-psychic 50%, $color-type-psychic 50%);
+    background: -moz-linear-gradient(180deg, $color-type-psychic 50%, $color-type-psychic 50%);
+    background: -o-linear-gradient(180deg, $color-type-psychic 50%, $color-type-psychic 50%);
+    background: linear-gradient(180deg, $color-type-psychic 50%, $color-type-psychic 50%);
+    background-color: $color-type-psychic;
+    color: $color-font-white;
+}
+
+.background-color-ice {
+    background: -webkit-linear-gradient(180deg, $color-type-ice 50%, $color-type-ice 50%);
+    background: -ms-linear-gradient(180deg, $color-type-ice 50%, $color-type-ice 50%);
+    background: -moz-linear-gradient(180deg, $color-type-ice 50%, $color-type-ice 50%);
+    background: -o-linear-gradient(180deg, $color-type-ice 50%, $color-type-ice 50%);
+    background: linear-gradient(180deg, $color-type-ice 50%, $color-type-ice 50%);
+    background-color: $color-type-ice;
+    color: $color-font-dark;
+}
+
+.background-color-dragon {
+    background: -webkit-linear-gradient(180deg, $color-type-dragon 50%, $color-type-dragon-secondary 50%);
+    background: -ms-linear-gradient(180deg, $color-type-dragon 50%, $color-type-dragon-secondary 50%);
+    background: -moz-linear-gradient(180deg, $color-type-dragon 50%, $color-type-dragon-secondary 50%);
+    background: -o-linear-gradient(180deg, $color-type-dragon 50%, $color-type-dragon-secondary 50%);
+    background: linear-gradient(180deg, $color-type-dragon 50%, $color-type-dragon-secondary 50%);
+    background-color: $color-type-dragon;
+    color: $color-font-white;
+}
+
+.background-color-dark {
+    background: -webkit-linear-gradient(180deg, $color-type-dark 50%, $color-type-dark 50%);
+    background: -ms-linear-gradient(180deg, $color-type-dark 50%, $color-type-dark 50%);
+    background: -moz-linear-gradient(180deg, $color-type-dark 50%, $color-type-dark 50%);
+    background: -o-linear-gradient(180deg, $color-type-dark 50%, $color-type-dark 50%);
+    background: linear-gradient(180deg, $color-type-dark 50%, $color-type-dark 50%);
+    background-color: $color-type-dark;
+    color: $color-font-white;
+}
+
+.background-color-fairy {
+    background: -webkit-linear-gradient(180deg, $color-type-fairy 50%, $color-type-fairy 50%);
+    background: -ms-linear-gradient(180deg, $color-type-fairy 50%, $color-type-fairy 50%);
+    background: -moz-linear-gradient(180deg, $color-type-fairy 50%, $color-type-fairy 50%);
+    background: -o-linear-gradient(180deg, $color-type-fairy 50%, $color-type-fairy 50%);
+    background: linear-gradient(180deg, $color-type-fairy 50%, $color-type-fairy 50%);
+    background-color: $color-type-fairy;
+    color: $color-font-dark;
+}
+
+.background-color-stellar {
+    background: -webkit-linear-gradient(180deg, $color-type-stellar 50%, $color-type-stellar 50%);
+    background: -ms-linear-gradient(180deg, $color-type-stellar 50%, $color-type-stellar 50%);
+    background: -moz-linear-gradient(180deg, $color-type-stellar 50%, $color-type-stellar 50%);
+    background: -o-linear-gradient(180deg, $color-type-stellar 50%, $color-type-stellar 50%);
+    background: linear-gradient(180deg, $color-type-stellar 50%, $color-type-stellar 50%);
+    background-color: $color-type-stellar;
+    color: $color-font-white;
+}
+
+.background-color-unknown {
+    background: -webkit-linear-gradient(180deg, $color-type-unknown 50%, $color-type-unknown 50%);
+    background: -ms-linear-gradient(180deg, $color-type-unknown 50%, $color-type-unknown 50%);
+    background: -moz-linear-gradient(180deg, $color-type-unknown 50%, $color-type-unknown 50%);
+    background: -o-linear-gradient(180deg, $color-type-unknown 50%, $color-type-unknown 50%);
+    background: linear-gradient(180deg, $color-type-unknown 50%, $color-type-unknown 50%);
+    background-color: $color-type-unknown;
+    color: $color-font-white;
+}

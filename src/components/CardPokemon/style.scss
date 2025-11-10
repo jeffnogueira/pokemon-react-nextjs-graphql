@@ -1,0 +1,17 @@
+@import "@/app/variables.scss";
+
+.card-pokemon-component {
+    box-shadow: 1px 1px 3px 3px $color-shadow-box-light;
+    background-color: $background-color-white;
+    transition: transform 0.3s ease-in-out;
+}
+
+.dark .card-pokemon-component {
+    box-shadow: 1px 1px 3px 3px $color-shadow-box-dark;
+    background-color: $background-color-dark;
+}
+
+.card-pokemon-component:hover {
+    transform: scale(1.15);
+    z-index: 2;
+}

@@ -21,6 +21,7 @@ $ cd pokemon-react-nextjs-graphql
 $ npm i
 
 $ npm run dev
-
 ```
 Application is running in 3000 localhost port.
+
+![pokemon-react-graphql](https://github.com/user-attachments/assets/cead9baf-5cce-47f0-b3c1-f6d079a2a03a)

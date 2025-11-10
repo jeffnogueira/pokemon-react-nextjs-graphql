@@ -1,6 +1,6 @@
 # App Pokedex
 
-> Aplicação feita consumindo a [PokeApi](https://pokeapi.co/)
+> Aplicação feita consumindo a [PokeApi](https://pokeapi.co/docs/graphql)
 
 ## Dependency
 
@@ -24,7 +24,3 @@ $ npm run dev
 
 ```
 Application is running in 3000 localhost port.
-
-![Gravação-de-Tela-2024-04-03-às-18 19 42](https://github.com/jeffnogueira/app-pokedex/assets/30880938/3463794f-f228-4e82-91c5-d43998bf1000)
-
-

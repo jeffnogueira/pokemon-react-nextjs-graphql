@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# App Pokedex
 
-## Getting Started
+> Aplicação feita consumindo a [PokeApi](https://pokeapi.co/)
 
-First, run the development server:
+## Dependency
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+| Name                | Documentation                                | Description                                                             |
+| --------------------|----------------------------------------------|-------------------------------------------------------------------------|
+| React 19.2.0        | https://angular.io/                          | Framework JavaScript                                                    |
+| Next 16.0.1         | https://nextjs.org/                          | React framework for building full-stack web applications                |
+| Redux 9.2.0         | https://redux.js.org/                        | A JS library for predictable and maintainable global state management   |
+| Apollo Client 4.0.9 | https://www.apollographql.com/               | Platform for graph-based API orchestration                              |
+| GraphQL 16.11.0     | https://graphql.org/                         | Query language for APIs and a server‑side runtime                       |
+| Tailwind 1.0.7      | https://tailwindcss.com/                     | A utility-first CSS framework packed                                    |
+
+## RUN
+
 ```
+$ cd pokemon-react-nextjs-graphql
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+$ npm i
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+$ npm run dev
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```
+Application is running in 3000 localhost port.
 
-## Learn More
+![Gravação-de-Tela-2024-04-03-às-18 19 42](https://github.com/jeffnogueira/app-pokedex/assets/30880938/3463794f-f228-4e82-91c5-d43998bf1000)
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.

@@ -53,7 +53,7 @@ export default function DetailPokemon() {
     
     return (
         <div>
-            <div className="flex flex-row justify-between items-center pt-5 pb-5">
+            <div className="flex flex-col md:flex-row justify-between items-center pt-5 pb-5">
                 <Image src={getValueBasedThemeMode(theme, valuesImagesByTheme)} 
                     alt={'Image ' + pokemon.name} width={300} height={300} />
                 <div className={`flex flex-col h-[180] ${getValueBasedThemeMode(theme, valuesHexColorsByTheme)} rounded-[10] p-3`}>

@@ -6,7 +6,7 @@
 
 | Name                | Documentation                                | Description                                                             |
 | --------------------|----------------------------------------------|-------------------------------------------------------------------------|
-| React 19.2.0        | https://angular.io/                          | Framework JavaScript                                                    |
+| React 19.2.0        | https://react.dev/                           | Framework JavaScript                                                    |
 | Next 16.0.1         | https://nextjs.org/                          | React framework for building full-stack web applications                |
 | Redux 9.2.0         | https://redux.js.org/                        | A JS library for predictable and maintainable global state management   |
 | Apollo Client 4.0.9 | https://www.apollographql.com/               | Platform for graph-based API orchestration                              |
